@@ -1,0 +1,3 @@
+Displays net, cpu and volume information
+on a 16x2 LCD display connected to an arduino
+using the LCD4Bit_mod library.
